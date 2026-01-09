@@ -78,6 +78,5 @@ DerivedDataCache/*
 *.ucas
 *.utoc
 *.pak
+*.zip
 /Windows/
-/Build/
-/Binaries/
